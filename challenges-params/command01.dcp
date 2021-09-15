@@ -1,0 +1,1 @@
+| (read containerHash;  [ ${#containerHash} -ge 64 ] && (docker ps -a | grep container_req_1 1> /dev/null) && echo true)

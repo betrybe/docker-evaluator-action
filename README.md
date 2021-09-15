@@ -1,4 +1,4 @@
-#Docker Evaluator Action Prototype v0
+# Docker Evaluator Action Prototype v0
 
 Atualmente esse protótipo pressupõe o seguinte conjunto de pastas:
 
@@ -29,7 +29,7 @@ Atualmente esse protótipo pressupõe o seguinte conjunto de pastas:
 - `challenges-params` é uma forma de conseguirmos tratar o retorno desses desafios, de maneira que gerar um output que possa ser comparado com a rubrica ;
 - `expected-results` é a rubrica (o resultado esperado) daquele projeto
 
-**⚠️ O protótipo como ação, ainda não foi testada**
+**⚠️ O protótipo como ação, ainda não foi testado**
 
 ### Requisitos para testes locais
 
